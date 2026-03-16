@@ -1,2 +1,2 @@
 # README-PUSH
-用于放置财联社电报推送和自选股监控README
+放置CLS电报推送和自选股监控README
